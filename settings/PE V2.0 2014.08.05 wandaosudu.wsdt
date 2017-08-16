@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>PE V2.0 2014.08.05 wandaosudu/FLASH</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          <Column0>164</Column0>
+          <Column1>27</Column1>
+          <Column2>27</Column2>
+          <Column3>27</Column3>
+        </ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>18</ColumnWidth0><ColumnWidth1>942</ColumnWidth1><ColumnWidth2>251</ColumnWidth2><ColumnWidth3>62</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>17</ColumnWidth0><ColumnWidth1>209</ColumnWidth1></Debug-Log>
+    </Static>
+    <Windows>
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5918-10508</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              <NodeDict>
+                <ExpandedNode>PE V2.0 2014.08.05 wandaosudu</ExpandedNode>
+                <ExpandedNode>PE V2.0 2014.08.05 wandaosudu/Sources</ExpandedNode>
+                <ExpandedNode>PE V2.0 2014.08.05 wandaosudu/Sources/C</ExpandedNode>
+                <ExpandedNode>PE V2.0 2014.08.05 wandaosudu/Sources/C/Component_C</ExpandedNode>
+                <ExpandedNode>PE V2.0 2014.08.05 wandaosudu/Sources/C/Frame_C</ExpandedNode>
+              </NodeDict>
+            </Session>
+          </Tab>
+          <Tab>
+            <Identity>TabID-27206-12566</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-14619-19352</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>2</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\isr.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>488</SelStart><SelEnd>488</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\main.c</Filename><XPos>0</XPos><YPos>103</YPos><SelStart>3419</SelStart><SelEnd>3419</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\control.c</Filename><XPos>0</XPos><YPos>1832</YPos><SelStart>44625</SelStart><SelEnd>44625</SelEnd></Tab><ActiveTab>2</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00d101b0><key>iaridepm.enu1</key></Toolbar-00d101b0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>582</Bottom><Right>275</Right><x>-2</x><y>-2</y><xscreen>181</xscreen><yscreen>215</yscreen><sizeHorzCX>151846</sizeHorzCX><sizeHorzCY>342903</sizeHorzCY><sizeVertCX>232383</sizeVertCX><sizeVertCY>931419</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

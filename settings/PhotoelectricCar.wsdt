@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>PhotoelectricCar/FLASH</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>4</Position><ScreenPosX>222</ScreenPosX><ScreenPosY>279</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Build</Factory></Window></Windows></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>4</Position><ScreenPosX>-305</ScreenPosX><ScreenPosY>340</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>790</ColumnWidth1><ColumnWidth2>210</ColumnWidth2><ColumnWidth3>52</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><PreferedWindows><Position>4</Position><ScreenPosX>222</ScreenPosX><ScreenPosY>279</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>300</ColumnWidth1></Debug-Log><SourceBrowser><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></SourceBrowser><Find-in-Files><ColumnWidth0>66</ColumnWidth0><ColumnWidth1>9</ColumnWidth1><ColumnWidth2>114</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2><Tabs><Tab><Identity>TabID-29039-15507</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-1269-15618</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>PhotoelectricCar</ExpandedNode><ExpandedNode>PhotoelectricCar/Project_Settings</ExpandedNode><ExpandedNode>PhotoelectricCar/Project_Settings/link</ExpandedNode><ExpandedNode>PhotoelectricCar/Sources</ExpandedNode><ExpandedNode>PhotoelectricCar/Sources/C</ExpandedNode></NodeDict></Session></Tab><Tab><Identity>TabID-14004-16608</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-11724-15422</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\main.c</Filename><XPos>0</XPos><YPos>149</YPos><SelStart>3892</SelStart><SelEnd>3892</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\control.c</Filename><XPos>0</XPos><YPos>56</YPos><SelStart>2902</SelStart><SelEnd>2902</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\isr.c</Filename><XPos>0</XPos><YPos>63</YPos><SelStart>1460</SelStart><SelEnd>1460</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-03296d88><key>iaridepm.enu1</key></Toolbar-03296d88></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>520</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>1048</xscreen><yscreen>200</yscreen><sizeHorzCX>1003831</sizeHorzCX><sizeHorzCY>298507</sizeHorzCY><sizeVertCX>191571</sizeVertCX><sizeVertCY>779104</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>105</Bottom><Right>1046</Right><x>-2</x><y>-2</y><xscreen>1048</xscreen><yscreen>107</yscreen><sizeHorzCX>1003831</sizeHorzCX><sizeHorzCY>159701</sizeHorzCY><sizeVertCX>191571</sizeVertCX><sizeVertCY>298507</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

@@ -1,0 +1,36 @@
+[DebugChecksum]
+Checksum=469034059
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Disassemble mode]
+mode=0
+[Breakpoints]
+Count=0
+[Aliases]
+A0=_ "E:\光电修改\PhotoelectricCar V1.1 2014.3.21二值化滤波加赛道判断\src\Sources\C\Component_C\control.c" ""
+A1=_ "E:\光电修改\PhotoelectricCar V1.1 2014.3.22二值化滤波加赛道判断小S弯\src\Sources\C\Component_C\pwm.c" ""
+A2=_ "F:\Kinetis\IARK60X256\06_LQ_ADC_UART\src\Project_Settings\Startup_Code\crt0.s" ""
+Count=3
+SuppressDialog=1

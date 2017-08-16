@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>PhotoelectricCar V1.1/FLASH</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>170</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>4</Position><ScreenPosX>258</ScreenPosX><ScreenPosY>340</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>4</Position><ScreenPosX>314</ScreenPosX><ScreenPosY>281</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><PreferedWindows><Position>4</Position><ScreenPosX>305</ScreenPosX><ScreenPosY>250</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>24</ColumnWidth0><ColumnWidth1>1216</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd1><Tabs><Tab><Identity>TabID-7735-29771</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>PhotoelectricCar V1.1</ExpandedNode><ExpandedNode>PhotoelectricCar V1.1/Project_Settings</ExpandedNode><ExpandedNode>PhotoelectricCar V1.1/Sources</ExpandedNode><ExpandedNode>PhotoelectricCar V1.1/Sources/C</ExpandedNode><ExpandedNode>PhotoelectricCar V1.1/Sources/C/Component_C</ExpandedNode><ExpandedNode>PhotoelectricCar V1.1/Sources/H</ExpandedNode><ExpandedNode>PhotoelectricCar V1.1/Sources/H/Component_H</ExpandedNode></NodeDict></Session></Tab><Tab><Identity>TabID-17438-29794</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-15598-31466</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\uart.c</Filename><XPos>0</XPos><YPos>80</YPos><SelStart>1151</SelStart><SelEnd>1151</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\isr.c</Filename><XPos>0</XPos><YPos>63</YPos><SelStart>2408</SelStart><SelEnd>2408</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\main.c</Filename><XPos>0</XPos><YPos>81</YPos><SelStart>2054</SelStart><SelEnd>2054</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\delay.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>95</SelStart><SelEnd>95</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\gpio.c</Filename><XPos>0</XPos><YPos>76</YPos><SelStart>3968</SelStart><SelEnd>3968</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\Component_H\PID.h</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>1257</SelStart><SelEnd>1257</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\PID.c</Filename><XPos>0</XPos><YPos>154</YPos><SelStart>6567</SelStart><SelEnd>6567</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\includes.h</Filename><XPos>0</XPos><YPos>1</YPos><SelStart>836</SelStart><SelEnd>836</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\Component_H\pwm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>98</SelStart><SelEnd>98</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\Component_H\wdog.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\pwm.c</Filename><XPos>0</XPos><YPos>257</YPos><SelStart>5605</SelStart><SelEnd>5605</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\decoder.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>2037</SelStart><SelEnd>2037</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\Component_H\control.h</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>1216</SelStart><SelEnd>1216</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\LQ12864.c</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>955</SelStart><SelEnd>955</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\control.c</Filename><XPos>0</XPos><YPos>725</YPos><SelStart>19571</SelStart><SelEnd>19571</SelEnd></Tab><ActiveTab>14</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\LQ12864.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>811</SelStart><SelEnd>811</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\Frame_H\common.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>414</SelStart><SelEnd>414</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\Component_H\button.h</Filename><XPos>0</XPos><YPos>7</YPos><SelStart>389</SelStart><SelEnd>389</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\button.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>260</SelStart><SelEnd>260</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0272ff20><key>iaridepm.enu1</key></Toolbar-0272ff20></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes/></Row0></Left><Right><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>651</Bottom><Right>253</Right><x>-2</x><y>-2</y><xscreen>206</xscreen><yscreen>220</yscreen><sizeHorzCX>155589</sizeHorzCX><sizeHorzCY>316092</sizeHorzCY><sizeVertCX>192598</sizeVertCX><sizeVertCY>938218</sizeVertCY></Rect></Wnd1></Sizes></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

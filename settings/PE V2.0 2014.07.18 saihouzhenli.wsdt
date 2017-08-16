@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>PE V2.0 2014.07.18 saihouzhenli/FLASH</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>182</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>942</ColumnWidth1><ColumnWidth2>251</ColumnWidth2><ColumnWidth3>62</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1254</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24731-16435</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>PE V2.0 2014.07.18 saihouzhenli</ExpandedNode><ExpandedNode>PE V2.0 2014.07.18 saihouzhenli/Project_Settings</ExpandedNode><ExpandedNode>PE V2.0 2014.07.18 saihouzhenli/Sources</ExpandedNode><ExpandedNode>PE V2.0 2014.07.18 saihouzhenli/Sources/C</ExpandedNode><ExpandedNode>PE V2.0 2014.07.18 saihouzhenli/Sources/C/Component_C</ExpandedNode></NodeDict></Session>
+          </Tab>
+        <Tab><Identity>TabID-21269-25422</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-19591-23557</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\control.c</Filename><XPos>0</XPos><YPos>1467</YPos><SelStart>36055</SelStart><SelEnd>36055</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\isr.c</Filename><XPos>0</XPos><YPos>35</YPos><SelStart>1431</SelStart><SelEnd>1431</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\main.c</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>2121</SelStart><SelEnd>2121</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\PID.c</Filename><XPos>0</XPos><YPos>133</YPos><SelStart>5640</SelStart><SelEnd>5640</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\H\Component_H\control.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>127</SelStart><SelEnd>127</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\adc.c</Filename><XPos>0</XPos><YPos>105</YPos><SelStart>2975</SelStart><SelEnd>2975</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\src\Sources\C\Component_C\gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>181</SelStart><SelEnd>181</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00fc01b0><key>iaridepm.enu1</key></Toolbar-00fc01b0></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>538</Bottom><Right>381</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>152207</sizeHorzCX><sizeHorzCY>343053</sizeHorzCY><sizeVertCX>291476</sizeVertCX><sizeVertCY>926244</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
